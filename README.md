@@ -3,21 +3,19 @@ I'm a cloud, madeofcloud!
 
 ### 🔭 Projects
 
-I'm currently working on:
-- Migrating old website from Nuxt to SvelteKit.
-- Creating a desktop application using Tauri and SvelteKit for project management.
-- Migrating an Electron based desktop application with Vue to SvelteKit and Tauri.
+I'm currently using SveleKit in various new projects ❤️
+Previous projects include:
+- https://fromagesuisse.madeofcloud.xyz
+- https://1984.madeofcloud.xyz
+- https://get-fcked.vercel.app (WARNING: Visit at your own risk)
+- https://reboundmusic.app (Unfinished/Incomplete)
 
 ### 🌱 Learning
 
 I'm currently learning:
-- How to program in Rust, to create Tauri desktop applications
-- Advanced techniques in SvelteKit
+- [Rust](https://www.rust-lang.org/) (to create Tauri desktop applications and more)
+- SSR techniques for SvelteKit
 - Monorepo usage with [Turborepo](https://turbo.build/repo)
-
-### 👯 Collaboration
-
-I'm looking to collaborate on creating a new project, something like a desktop application using tools such as Tauri and SvelteKit.
 
 ### Programming Languages and Tools
 
